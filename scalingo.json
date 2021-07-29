@@ -21,7 +21,7 @@
     }
   },
   "addons": [{
-    "plan": "heroku-postgresql",
+    "plan": "postgresql:postgresql-sandbox",
     "options": {
       "version": "11"
     }
